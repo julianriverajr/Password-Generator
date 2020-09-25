@@ -16,4 +16,6 @@ Once all these values are stored, we are to give the user a randomly generated p
 
 ## Links
 
+to generator:  https://julianriverajr.github.io/Password-Generator/
+
 to github repo: https://github.com/julianriverajr/Password-Generator
