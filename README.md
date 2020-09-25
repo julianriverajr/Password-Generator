@@ -1,4 +1,4 @@
-# Password-Generator
+# Password Generator
 
 ## What I Did
 
