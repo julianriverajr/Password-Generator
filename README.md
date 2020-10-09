@@ -11,8 +11,10 @@ The parameters were:
 * ask if the user wants special characters in their password
 Once all these values are stored, we are to give the user a randomly generated password using the selected character types. 
 
-## Image
+## Images
 ![password generator screenshot](./image/pass-gen-screenshot.png)
+
+![password generator screenshot2](./image/passwordGenShotOther.png)
 
 ## Links
 
