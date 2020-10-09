@@ -16,6 +16,11 @@ Once all these values are stored, we are to give the user a randomly generated p
 
 ![password generator screenshot2](./image/passwordGenShotOther.png)
 
+## Technologies Used
+* HTML
+* JavaScript
+* functions and buttons
+
 ## Links
 
 to generator:  https://julianriverajr.github.io/Password-Generator/
