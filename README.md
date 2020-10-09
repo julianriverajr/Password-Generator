@@ -21,3 +21,7 @@ Once all these values are stored, we are to give the user a randomly generated p
 to generator:  https://julianriverajr.github.io/Password-Generator/
 
 to github repo: https://github.com/julianriverajr/Password-Generator
+
+
+### Contact Info
+email: julianriverajr@gmail.com
